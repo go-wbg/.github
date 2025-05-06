@@ -27,11 +27,6 @@ We build tools that make Firefox more powerful, customizable, and manageable thr
 
 Visit our [website](https://go-wbg.github.io) for comprehensive documentation and guides on using our libraries.
 
-For developers looking to contribute:
-1. Check out our [contribution guidelines](CONTRIBUTING.md)
-2. Review our [code of conduct](CODE_OF_CONDUCT.md)
-3. Browse through open issues in our repositories
-
 ## Why "WesternBandedGecko"?
 
 The Western Banded Gecko is a small, adaptable reptile native to the southwestern United States - much like how our tools adapt and extend the capabilities of Firefox (which uses the Gecko rendering engine). We aim to be small, efficient, and perfectly suited to our environment.
